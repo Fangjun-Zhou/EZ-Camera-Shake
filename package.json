@@ -1,0 +1,17 @@
+{
+  "name": "com.fintokmak.ezcamerashake",
+  "version": "0.0.1",
+  "displayName": "EZ Camera Shake",
+  "description": "The package version of EZ Camera Shake",
+  "unity": "2020.3",
+  "unityRelease": "0b5",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "keywords": [
+  ],
+  "author": {
+    "name": "None",
+    "email": "None"
+  }
+}
